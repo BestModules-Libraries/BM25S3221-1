@@ -14,7 +14,7 @@ The Best Modules BM25S3221-1 is a laser dust digital sensor, which uses the UART
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
 |BM25S3221-1   | Laser dust digital sensor|
-|BME58M332  | On-board BM25S3221-1 sensor|
+|BME25K322  | On-board BM25S3221-1 sensor|
 
 </div> 
 
