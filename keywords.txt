@@ -1,0 +1,28 @@
+##############################################
+# Coloring Map For BM25S3221-1
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM25S3221_1	KEYWORD1         
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+preheatCountdown	KEYWORD2
+readPM25Value	KEYWORD2
+readDustValue	KEYWORD2
+isInfoAvailable	KEYWORD2
+readInfoPacket	KEYWORD2
+setUploadMode	KEYWORD2
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+BAUDRATE	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+AUTO	LITERAL1
+CMD	LITERAL1
